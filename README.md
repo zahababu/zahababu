@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zahababu
+- 👋 Hi, I’m @zahab khan
 - 👀 I’m interested in ...full stack development and data science
 - 🌱 I’m currently learning ...mern stack
 - 💞️ I’m looking to collaborate on ...
